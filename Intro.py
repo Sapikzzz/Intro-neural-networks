@@ -50,4 +50,4 @@ print(output)
 # a = [1,2,3]
 # b = [2,3,4]
 # dot_product = 1*2 + 2*3 + 3*4
-# np.dot(a, b)
+# np.dot(a, b) cos se dopiasalem
